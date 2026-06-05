@@ -2,7 +2,7 @@ package com.ulp;
 
 /**
  *
- * @author juanj
+ * @author brian
  */
 public class Bateria {
     double carga = 0.0;

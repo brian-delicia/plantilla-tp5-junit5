@@ -6,7 +6,7 @@ package com.ulp;
 
 /**
  *
- * @author juanj
+ * @author brian
  */
 public class PlantillaTp5Junit {
 

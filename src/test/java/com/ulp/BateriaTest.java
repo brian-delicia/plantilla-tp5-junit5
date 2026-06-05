@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author juanj
+ * @author brian
  */
 @DisplayName("PROGRAMA DE CARGA y DESCARGA")
 public class BateriaTest {
